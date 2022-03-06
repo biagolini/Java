@@ -9,6 +9,8 @@
 ## C
 
 ## D
+### Design Patterns
+https://github.com/biagolini/JavaDesignPatterns
 
 ## E
 
