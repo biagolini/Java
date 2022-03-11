@@ -13,6 +13,8 @@
 https://github.com/biagolini/JavaDesignPatterns
 
 ## E
+### Emails
+https://github.com/biagolini/JavaSpringEmail
 
 ## F
 
