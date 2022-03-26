@@ -45,6 +45,8 @@ https://github.com/biagolini/JavaSpringEmail
 ## R
 
 ## S
+### Security Crypto - Hash Calculators
+https://github.com/biagolini/JavaSpringSecurityCrypto
 
 ## T
 
