@@ -23,8 +23,6 @@ https://github.com/biagolini/JavaSpringEmail
 ## G
 
 ## H
-### HttpServlet
-https://github.com/biagolini/JavaHttpServlet
 
 ## I
 ### Interface visual - Calculadora básica
