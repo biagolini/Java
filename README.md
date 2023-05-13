@@ -31,6 +31,10 @@ https://github.com/biagolini/JavaHttpServlet
 https://github.com/biagolini/JavaCalculadora
 
 ## J
+### JDBC (Java Database Connectivity) e JPA (Java Persistence API) - Comparação entre JDBC e JPA
+https://github.com/biagolini/JavaJdbcJpa
+### JSP (Java Server Pages) - Aplicação simples que aplica JSP
+https://github.com/biagolini/JavaJsp
 
 ## K
 
@@ -51,6 +55,9 @@ https://github.com/biagolini/JavaCalculadora
 ## S
 ### Security Crypto - Hash Calculators
 https://github.com/biagolini/JavaSpringSecurityCrypto
+
+### Servlet - Hello World com Servlets
+https://github.com/biagolini/JavaServletHelloWorld
 
 ## T
 
